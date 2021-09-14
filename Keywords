@@ -1,0 +1,18 @@
+// single comment
+
+/* multiple comments */
+
+/*
+*
+*
+*  multiple comments
+*
+*
+*/
+
+{ } => curly brackets
+[] => square brackets
+| => vertical bar
+_ => underscore
+/ => forward slash
+\ => back slash

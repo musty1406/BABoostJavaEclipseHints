@@ -1,0 +1,12 @@
+## Tamsayılar => bsil (b<s<i<l)
+-byte
+-short
+-int
+-long
+-------------------------------------
+## Cast => fL (fil)
+Eğer değişken long ile tanımlanıyorsa sonuna L koyulur.
+	      float ile tanımlanıyorsa sonuna f koyulur.
+
+tamsayı	=>  long degiskenAdi = 14444444444444L;
+ondalıklı sayı => float ondalikliSayi = 14.44f;
